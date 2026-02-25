@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner" alt="Catherine Hamaoui Banner" width="100%">
+</p>
+
 # Hi there, I'm Catherine Hamaoui 👋 
 
 I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI design thinking**. From the Operating Room 🏥 to Residential Construction 🏗️, I specialize in streamlining complex workflows and creating intuitive, user-centric solutions.

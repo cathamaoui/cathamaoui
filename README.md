@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Banner" alt="Catherine Hamaoui Banner" width="100%">
+  <img src="./Banner.png" alt="Catherine Hamaoui Banner" width="100%">
 </p>
 
 # Hi there, I'm Catherine Hamaoui 👋 

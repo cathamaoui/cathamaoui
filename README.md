@@ -1,15 +1,16 @@
-
 # Hi there, I'm Catherine Hamaoui 👋 
 
 I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI design thinking**. From the Operating Room 🏥 to Residential Construction 🏗️, I specialize in streamlining complex workflows and creating intuitive, user-centric solutions.
 
 ---
 
-### 🚀 Skills & Expertise
+**🚀 Skills & Expertise**
 
-![Six Sigma](https://img.shields.io)
-![UX Design](https://img.shields.io)
-![Healthcare](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io" alt="Six Sigma" />
+  <img src="https://img.shields.io" alt="UX Design" />
+  <img src="https://img.shields.io" alt="Healthcare" />
+</p>
 
 
 | Category | Skills & Tools 🛠️ |
@@ -20,7 +21,7 @@ I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI
 
 ---
 
-### 💼 Experience Highlights
+**💼 Experience Highlights**
 
 *   **Process Improvement Coordinator @ Prestige Homes (2021-2022)** 🏗️
     *   Optimized design processes using **5S** and **DMAIC** models to eliminate inefficiencies.
@@ -33,7 +34,7 @@ I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI
 
 ---
 
-### 🎓 Education & Certifications
+**🎓 Education & Certifications**
 
 *   📜 **Green Belt Six Sigma** (The Council for Six Sigma Certification)
 *   🎨 **UX Design Diploma** (User Experience Web Design)
@@ -41,10 +42,10 @@ I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI
 
 ---
 
-### 🤝 Connect With Me
+**🤝 Connect With Me**
 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com) 
-[![Email](https://img.shields.io)](mailto:cathamaoui@hotmail.com)
-📞 **Mobile:** (613) 315-5040
+📫 **Email:** [cathamaoui@hotmail.com](mailto:cathamaoui@hotmail.com)  
+📱 **Mobile:** (613) 315-5040
 
 ---
+

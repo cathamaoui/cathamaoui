@@ -6,11 +6,7 @@ I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI
 
 **🚀 Skills & Expertise**
 
-<p align="left">
-  <img src="https://img.shields.io" alt="Six Sigma" />
-  <img src="https://img.shields.io" alt="UX Design" />
-  <img src="https://img.shields.io" alt="Healthcare" />
-</p>
+🟢 **Six Sigma Green Belt** • 🎨 **UX/UI Certified** • 🏥 **Healthcare (RPN)**
 
 
 | Category | Skills & Tools 🛠️ |
@@ -48,4 +44,3 @@ I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI
 📱 **Mobile:** (613) 315-5040
 
 ---
-

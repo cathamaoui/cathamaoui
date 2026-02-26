@@ -45,6 +45,6 @@ I am a versatile professional blending **Lean Six-Sigma precision** with **UX/UI
 **🤝 Connect With Me**
 
 📫 **Email:** [cathamaoui@hotmail.com](mailto:cathamaoui@hotmail.com)  
-📱 **Mobile:** (613) 315-5040
+📱 **Mobile:** 
 
 ---
